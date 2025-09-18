@@ -34,4 +34,19 @@
 
   ```
 
-  ## Different Coding Paradigms
+  ## Composite Types
+
+```javascript
+school = []
+school[0] = 1;
+school[1] = 's';
+console.log(school)
+```
+
+## Memory Collection
+
+- Intensive task; will affect you
+- Will affect browser response times
+- need to `null` variables to post for garbage collection
+- array is a ordered collection of stuff
+- object is unordered collection of stuff
